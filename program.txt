@@ -1,2 +1,1 @@
-writing a program inside it
-added wrong command or syntax.
+writing a program inside it.
